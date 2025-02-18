@@ -19,7 +19,7 @@ Hi, I'm Dhanvin!
 ```
 NoobGrinder420@github
 -------------------------
-💻 I am (was) a self taught Python Developer and a C++ DSA enthusiast
+💻 I am a self taught Python Developer and a C++ DSA enthusiast
 👨🏽‍💻 Check out my linkedin at Dhanvin Mohan Ram
 🌱 Learning about Computer Vision, Front end development and Machine Learning stuff
 🌟 Main languages: Python, C++, C, SQL, Javascript
