@@ -5,7 +5,7 @@ Hi, I'm Dhanvin!
 
 
 <p align="center">
-  <a href="https://github.com/NoobGrinder420/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Python+App+Developer;C%2B%2B+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/NoobGrinder420/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Python+App+Developer;C%2B%2B+Developer;Freelancer;DSA%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Social icons section -->
