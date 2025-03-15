@@ -5,7 +5,7 @@ Hi, I'm Dhanvin!
 
 
 <p align="center">
-  <a href="https://github.com/NoobGrinder420/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Python+App+Developer;C%2B%2B+DSA+Enthusiast;Freelancer;webdev%20|%20ML%20|%20SQL+Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/NoobGrinder420/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Python+Software+Developer;C%2B%2B+DSA+Enthusiast;Freelancer;webdev%20|%20ML%20|%20Cybersecurity+Hobbyist;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Social icons section -->
@@ -19,9 +19,9 @@ Hi, I'm Dhanvin!
 ```
 NoobGrinder420@github
 -------------------------
-💻 I am a self taught Python Developer and a C++ DSA enthusiast
+💻 I am a self taught Python Developer and a Cybersecurity enthusiast
 👨🏽‍💻 Check out my linkedin at Dhanvin Mohan Ram
-🌱 Learning about Computer Vision, Front end development and Machine Learning stuff
+🌱 Learning about Cybersecurity, Front end development and Machine Learning stuff
 🌟 Main languages: Python, C++, C, SQL, Javascript
 🚩 Interested in Game development, Full Stack Application development, Leetcode
 💖 In a complicated relationship with Mobile app development and CSS
