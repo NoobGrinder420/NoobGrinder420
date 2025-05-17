@@ -1,8 +1,9 @@
 <h1 align="center">
-Hi, I'm Dhanvin!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
+  Hi, I'm Dhanvin!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
+<br/>
 
 <p align="center">
   <a href="https://github.com/NoobGrinder420/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Python+Software+Developer;C%2B%2B+DSA+Enthusiast;Freelancer;Webdev%20|%20Cybersecurity+Hobbyist;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
@@ -45,6 +46,8 @@ NoobGrinder420@github
       <a href="https://github.com/search?q=user%3ANoobGrinder420+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ANoobGrinder420+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ANoobGrinder420+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+
+</p>
     
 
 ### 🧰 Frameworks and Libraries
@@ -55,7 +58,7 @@ NoobGrinder420@github
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  </p>
+</p>
 
 ### 🗄️ Databases and Cloud Hosting
 
@@ -63,7 +66,7 @@ NoobGrinder420@github
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-  </p>
+</p>
   
 ### 💻 Software and Tools
 
@@ -73,13 +76,20 @@ NoobGrinder420@github
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
+</p>
 
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
+<br>
+
+<p align="center">
+    <a href="#"><img alt="My Homelab" src="homelab.drawio.png" width=70%></a>
+</p>
+
+<br>
 
 ## Let's Work on Your Project Together!
 
